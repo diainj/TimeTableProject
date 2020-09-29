@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name"> TimeTable </string>
+    <string name="navigation_drawer_open"> Öffnen Sie die Navigationsschublade </string>
+    <string name="navigation_drawer_close"> Schließen Sie die Navigationsleiste </string>
+    <string name="nav_header_title"> Android Studio </string>
+    <string name="nav_header_desc"> Navigationsheader </string>
+    <string name="action_settings"> Einstellungen </string>
+
+    <!-- Fragmentstrings -->
+    <string name="monday"> Montag </string>
+    <string name="tuesday"> Dienstag </string>
+    <string name="wednesday"> Mittwoch </string>
+    <string name="thursday"> Donnerstag </string>
+    <string name="friday"> Freitag </string>
+    <string name="saturday"> Samstag </string>
+    <string name="sunday"> Sonntag </string>
+    <string name="select_snackbar"> Bitte wählen Sie ein Element aus. </string>
+    <string name="selected"> Ausgewählt </string>
+
+    <!-- Hauptaktivitätszeichenfolgen -->
+    <string name="timetable"> TimeTable </string>
+    <string name="ulan_nurymov_gmail_com"> ulan.nurymov@gmail.com </string>
+    <string name="seven_days_of_the_week"> 7 Wochentage </string>
+    <string name="subject"> Betreff </string>
+    <string name="field_error"> Feld darf nicht leer sein! </string>
+    <string name="time_error"> Das Zeitfeld darf nicht leer sein! </string>
+    <string name="week"> Woche </string>
+    <string name="delete"> Löschen </string>
+    <string name="edit"> Bearbeiten </string>
+    <string name="school_website"> Schulwebsite </string>
+    <string name="school_website_snackbar"> Bitte legen Sie die URL Ihrer Schulwebsite in den Einstellungen fest. </string>
+
+    <string name="add_subject"> Betreff hinzufügen </string>
+    <string name="edit_subject"> Betreff bearbeiten </string>
+    <string name="teacher"> Lehrer </string>
+    <string name="room"> Raum </string>
+    <string name="time"> Zeit </string>
+    <string name="save"> Speichern </string>
+    <string name="cancel"> Abbrechen </string>
+    <string name="time_to_dialog"> An: </string>
+    <string name="time_from_dialog"> Von: </string>
+    <string name="subject_dialog"> Betreff: </string>
+    <string name="teacher_dialog"> Lehrer: </string>
+    <string name="room_dialog"> Raum: </string>
+    <string name="select_time"> Zeit auswählen </string>
+    <string name="select_color"> Farbe auswählen </string>
+    <string name="choose_time"> Wählen Sie time </string>
+    <string name="choose_date"> Datum auswählen </string>
+    <string name="choose_color"> Wählen Sie Farbe </string>
+
+    <!-- Zeichenfolgen für Hausaufgaben -->
+    <string name="title_activity_homeworks"> HomeworksActivity </string>
+    <string name="homeworks"> Hausaufgaben </string>
+    <string name="select_date"> Datum auswählen </string>
+    <string name="deadline_dialog"> Deadline: </string>
+    <string name="deadline"> Deadline </string>
+    <string name="description_dialog"> Beschreibung: </string>
+    <string name="desctiption"> Beschreibung </string>
+    <string name="date_error"> Das Datumsfeld darf nicht leer sein! </string>
+    <string name="edit_homework"> Hausaufgaben bearbeiten </string>
+    <string name="add_homework"> Hausaufgaben hinzufügen </string>
+    <string name="deadline_snackbar"> "Deadline-Feld darf nicht leer sein! </string>
+    <string name="date"> Datum </string>
+
+    <!-- Notizen Aktivitätszeichenfolgen -->
+    <string name="notes"> Notizen </string>
+    <string name="title_dialog"> Titel: </string>
+    <string name="add_note"> Notiz hinzufügen </string>
+    <string name="edit_note"> Notiz bearbeiten </string>
+    <string name="title_error"> Das Titelfeld darf nicht leer sein! </string>
+    <string name="title"> Titel </string>
+    <string name="saved"> Gespeichert </string>
+
+    <!-- Lehreraktivitätszeichenfolgen -->
+    <string name="teachers"> Lehrer </string>
+    <string name="add_teacher"> Lehrer hinzufügen </string>
+    <string name="edit_teacher"> Lehrer bearbeiten </string>
+    <string name="name_dialog"> Name: </string>
+    <string name="post_dialog"> Beitrag: </string>
+    <string name="phonenumber_dialog"> Telefon: </string>
+    <string name="email_dialog"> E-Mail: </string>
+    <string name="name"> Name </string>
+    <string name="phone_number"> Telefonnummer </string>
+    <string name="post"> Post </string>
+    <string name="email"> E-Mail </string>
+
+    <!-- Prüfungen Aktivitätszeichenfolgen -->
+    <string name="exams"> Prüfungen </string>
+    <string name="add_exam"> Prüfung hinzufügen </string>
+    <string name="date_dialog"> Datum: </string>
+    <string name="time_dialog"> Zeit: </string>
+
+    <!-- Einstellungen Aktivitätszeichenfolgen -->
+    <string name="sevendays_setting"> Aktivieren Sie 7 Wochentage </string>
+    <string name="school_website_setting"> Schulwebsite ändern </string>
+    <string name="school_website_setting_summary"> Ändern Sie die URL Ihrer Schulwebsite </string>
+
+    <!-- Benachrichtigung -->
+    <string name="notification_title"> Die heutigen Lektionen </string>
+    <string name="do_not_have_lessons"> Sie haben keinen Unterricht! </string>
+
+</resources>
