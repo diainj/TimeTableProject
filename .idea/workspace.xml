@@ -15,7 +15,7 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Galaxy_Nexus_API_22" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="ESK_Pixel_3a_API_28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -67,6 +67,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Galaxy_Nexus_API_22" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-29T06:09:48.097Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-mdpi" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -155,6 +156,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="366" y="165" key="#app" timestamp="1602127780542">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="366" y="165" key="#app/0.0.2560.1040@0.0.2560.1040" timestamp="1602127780542" />
     <state x="637" y="399" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599717975341">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
