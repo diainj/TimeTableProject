@@ -203,11 +203,29 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 startActivity(settings);
                 return true;
             case R.id.facebook:
-                    openUrlInChromeCustomTab(getApplicationContext(), "www.facebook.com");
+                String facebook = PreferenceManager.getDefaultSharedPreferences(this).getString(SettingsActivity.FACEBOOK_SETTING, null);
+                if(!TextUtils.isEmpty(facebook)) {
+                    openUrlInChromeCustomTab(getApplicationContext(), facebook);
+                } else {
+                    Snackbar.make(navigationView, R.string.school_website_snackbar, Snackbar.LENGTH_SHORT).show();
+                }
+                return true;
             case R.id.twitter:
-                    openUrlInChromeCustomTab(getApplicationContext(), "www.twitter.com");
+                String twitter = PreferenceManager.getDefaultSharedPreferences(this).getString(SettingsActivity.TWITTER_SETTING, null);
+                if(!TextUtils.isEmpty(twitter)) {
+                    openUrlInChromeCustomTab(getApplicationContext(), twitter);
+                } else {
+                    Snackbar.make(navigationView, R.string.school_website_snackbar, Snackbar.LENGTH_SHORT).show();
+                }
+                return true;
             case R.id.otherwebsite:
-                    openUrlInChromeCustomTab(getApplicationContext(), "www.google.com");
+                String instagram = PreferenceManager.getDefaultSharedPreferences(this).getString(SettingsActivity.INSTAGRAM_SETTING, null);
+                if(!TextUtils.isEmpty(instagram)) {
+                    openUrlInChromeCustomTab(getApplicationContext(), instagram);
+                } else {
+                    Snackbar.make(navigationView, R.string.school_website_snackbar, Snackbar.LENGTH_SHORT).show();
+                }
+                return true;
             default:
                 DrawerLayout drawer = findViewById(R.id.drawer_layout);
                 drawer.closeDrawer(GravityCompat.START);

@@ -14,4 +14,28 @@
         android:singleLine="true"
         android:title="@string/school_website_setting"
         android:summary="@string/school_website_setting_summary"/>
+
+    <EditTextPreference
+        android:key="facebook"
+        android:selectAllOnFocus="true"
+        android:icon="@drawable/baseline_open_in_browser_black_18"
+        android:singleLine="true"
+        android:title="@string/facebook"
+        android:summary="@string/school_website_setting_summary"/>
+
+    <EditTextPreference
+        android:key="twitter"
+        android:selectAllOnFocus="true"
+        android:icon="@drawable/baseline_open_in_browser_black_18"
+        android:singleLine="true"
+        android:title="@string/twitter"
+        android:summary="@string/school_website_setting_summary"/>
+
+    <EditTextPreference
+        android:key="instagram"
+        android:selectAllOnFocus="true"
+        android:icon="@drawable/baseline_open_in_browser_black_18"
+        android:singleLine="true"
+        android:title="@string/otherwebsite"
+        android:summary="@string/school_website_setting_summary"/>
 </PreferenceScreen>

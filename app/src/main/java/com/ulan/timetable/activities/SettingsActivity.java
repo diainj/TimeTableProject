@@ -10,6 +10,9 @@ public class SettingsActivity extends AppCompatActivity {
     public static final String
             KEY_SEVEN_DAYS_SETTING = "sevendays";
     public static final String KEY_SCHOOL_WEBSITE_SETTING = "schoolwebsite";
+    public static final String FACEBOOK_SETTING = "facebook";
+    public static final String TWITTER_SETTING = "twitter";
+    public static final String INSTAGRAM_SETTING = "instagram";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
