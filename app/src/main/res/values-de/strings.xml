@@ -19,7 +19,7 @@
 
     <!-- Hauptaktivitätszeichenfolgen -->
     <string name="timetable"> TimeTable </string>
-    <string name="ulan_nurymov_gmail_com"> ulan.nurymov@gmail.com </string>
+    <string name="team_epi">Team EPI</string>
     <string name="seven_days_of_the_week"> 7 Wochentage </string>
     <string name="subject"> Betreff </string>
     <string name="field_error"> Feld darf nicht leer sein! </string>
