@@ -19,6 +19,7 @@
 
     <!-- Main Activity strings -->
     <string name="timetable">TimeTable</string>
+    <string name="team_epi">Team EPI</string>
     <string name="seven_days_of_the_week">7 Days of the Week</string>
     <string name="subject">Subject</string>
     <string name="field_error">Field can not be empty!</string>
