@@ -30,7 +30,7 @@
     <string name="school_website">Site Web</string>
     <string name="school_website_snackbar">Veuillez définir l\'URL de votre site Web dans les paramètres.</string>
 
-    <string name="add_subject">Ajouter un objet</string>
+    <string name="add_subject">Site Internet</string>
     <string name="edit_subject">Modifier le sujet</string>
     <string name="teacher">Enseignant</string>
     <string name="room">Salle</string>
@@ -98,5 +98,8 @@
     <!-- Notification -->
     <string name="notification_title">Cours du jour</string>
     <string name="do_not_have_lessons">Vous n\'avez pas de cours!</string>
+    <string name="otherwebsite">Site Internet</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
 
 </resources>

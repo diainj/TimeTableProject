@@ -98,5 +98,8 @@
     <!-- Benachrichtigung -->
     <string name="notification_title"> Die heutigen Lektionen </string>
     <string name="do_not_have_lessons"> Sie haben keinen Unterricht! </string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="otherwebsite">Webseite</string>
 
 </resources>
