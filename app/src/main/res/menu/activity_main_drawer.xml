@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -42,5 +43,20 @@
             android:icon="@drawable/baseline_settings_black_18"
             android:title="@string/action_settings" />
     </group>
+        <item
+            android:id="@+id/facebook"
+            android:title="@string/facebook"
+            android:icon="@mipmap/facebook_foreground" />
+
+        <item
+            android:id="@+id/twitter"
+            android:title="@string/twitter"
+            android:icon="@mipmap/twitterv_foreground" />
+
+
+        <item
+            android:id="@+id/otherwebsite"
+            android:title="@string/otherwebsite"
+            android:icon="@drawable/website_foreground" />
 
 </menu>
