@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TimeTableProject-sat.iml" filepath="$PROJECT_DIR$/.idea/modules/TimeTableProject-sat.iml" group="TimeTableProject-sat" />
-      <module fileurl="file://$PROJECT_DIR$/TimeTable-master/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/TimeTable-master/app/src/androidTest/androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="TimeTableProject-sat/app" />
-      <module fileurl="file://$PROJECT_DIR$/TimeTable-master/app/src/main/main.iml" filepath="$PROJECT_DIR$/TimeTable-master/app/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TimeTable-master/app/src/test/test.iml" filepath="$PROJECT_DIR$/TimeTable-master/app/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TimeTableProject.iml" filepath="$PROJECT_DIR$/.idea/modules/TimeTableProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TimeTableProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TimeTableProject.app.iml" />
     </modules>
   </component>
 </project>
