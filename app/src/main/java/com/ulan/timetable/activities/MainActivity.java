@@ -207,7 +207,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.twitter:
                     openUrlInChromeCustomTab(getApplicationContext(), "www.twitter.com");
             case R.id.otherwebsite:
-                    openUrlInChromeCustomTab(getApplicationContext(), "www.google.com");
+                    openUrlInChromeCustomTab(getApplicationContext(), "www.instagram.com");
             default:
                 DrawerLayout drawer = findViewById(R.id.drawer_layout);
                 drawer.closeDrawer(GravityCompat.START);

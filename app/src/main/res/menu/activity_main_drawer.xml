@@ -57,6 +57,6 @@
         <item
             android:id="@+id/otherwebsite"
             android:title="@string/otherwebsite"
-            android:icon="@drawable/website_foreground" />
+            android:icon="@mipmap/instagram_foreground" />
 
 </menu>
