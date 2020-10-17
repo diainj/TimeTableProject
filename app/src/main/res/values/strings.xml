@@ -27,8 +27,8 @@
     <string name="week">Week</string>
     <string name="delete">Delete</string>
     <string name="edit">Edit</string>
-    <string name="school_website">School website</string>
-    <string name="school_website_snackbar">Please, set URL of your school website in settings.</string>
+    <string name="school_website">Website</string>
+    <string name="school_website_snackbar">Please set URL of your website in settings.</string>
 
     <string name="facebook">Facebook</string>
     <string name="twitter">Twitter</string>
